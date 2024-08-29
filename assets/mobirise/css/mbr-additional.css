@@ -1145,6 +1145,15 @@ a {
   text-align: left;
   color: #bbbbbb;
 }
+.cid-twdw6jcejL {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #353535;
+  overflow: hidden;
+}
+.cid-twdw6jcejL .media-container-row .mbr-text {
+  color: #ffffff;
+}
 .cid-tw06XKBudF {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -1216,15 +1225,6 @@ a {
 .cid-tw09cDKn7g [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
-}
-.cid-twdw6jcejL {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #353535;
-  overflow: hidden;
-}
-.cid-twdw6jcejL .media-container-row .mbr-text {
-  color: #ffffff;
 }
 .cid-tvxdoG3edG {
   z-index: 1000;
