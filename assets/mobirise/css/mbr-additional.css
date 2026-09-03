@@ -1085,70 +1085,65 @@ a {
   color: #ffffff;
   text-align: left;
 }
-.cid-tvZZeK0Zcs {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
-  background-image: url("../../../assets/images/safety-induction-576x1024.jpg");
+.cid-vu75pzXOoP {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
 }
-.cid-tvZZeK0Zcs .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.6;
-}
-.cid-tvZZeK0Zcs img,
-.cid-tvZZeK0Zcs .item-img {
-  width: 100%;
+.cid-vu75pzXOoP img,
+.cid-vu75pzXOoP .item-img {
   height: 100%;
   height: 300px;
   object-fit: cover;
 }
-.cid-tvZZeK0Zcs .item:focus,
-.cid-tvZZeK0Zcs span:focus {
+.cid-vu75pzXOoP .item:focus,
+.cid-vu75pzXOoP span:focus {
   outline: none;
 }
-.cid-tvZZeK0Zcs .item {
+.cid-vu75pzXOoP .item {
   cursor: pointer;
   margin-bottom: 2rem;
 }
-.cid-tvZZeK0Zcs .item-wrapper {
+.cid-vu75pzXOoP .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #ffffff;
+  background: #fafafa;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
-  .cid-tvZZeK0Zcs .item-wrapper .item-content {
+  .cid-vu75pzXOoP .item-wrapper .item-content {
     padding: 2rem 2rem 0;
   }
-  .cid-tvZZeK0Zcs .item-wrapper .item-footer {
+  .cid-vu75pzXOoP .item-wrapper .item-footer {
     padding: 0 2rem 2rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-tvZZeK0Zcs .item-wrapper .item-content {
+  .cid-vu75pzXOoP .item-wrapper .item-content {
     padding: 1rem 1rem 0;
   }
-  .cid-tvZZeK0Zcs .item-wrapper .item-footer {
+  .cid-vu75pzXOoP .item-wrapper .item-footer {
     padding: 0 1rem 1rem;
   }
 }
-.cid-tvZZeK0Zcs .mbr-section-btn {
+.cid-vu75pzXOoP .mbr-section-btn {
   margin-top: auto !important;
 }
-.cid-tvZZeK0Zcs .mbr-section-title {
+.cid-vu75pzXOoP .mbr-section-title {
   color: #232323;
 }
-.cid-tvZZeK0Zcs .mbr-text,
-.cid-tvZZeK0Zcs .mbr-section-btn {
+.cid-vu75pzXOoP .mbr-text,
+.cid-vu75pzXOoP .mbr-section-btn {
   text-align: left;
 }
-.cid-tvZZeK0Zcs .item-title {
-  text-align: center;
-}
-.cid-tvZZeK0Zcs .item-subtitle {
+.cid-vu75pzXOoP .item-title {
   text-align: left;
-  color: #bbbbbb;
+}
+.cid-vu75pzXOoP .item-subtitle {
+  text-align: left;
+  color: #232323;
 }
 .cid-twdw6jcejL {
   padding-top: 30px;
